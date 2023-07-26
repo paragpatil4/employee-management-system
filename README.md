@@ -1,6 +1,6 @@
 # employee-management-system
 
-**MINI PROJECT**
+***MINI PROJECT***
 
 Developed a responsive GUI application that manages records of Employees. Built features like Add, View, Update, and Remove the employee details. Languages and Tools used are Core Java, Swing, AWT, MySQL, and NetBeans IDE.
 
